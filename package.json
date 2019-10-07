@@ -1,7 +1,7 @@
 {
   "name": "object-glob",
   "version": "0.1.0",
-  "description": "Lightweight concurrency management",
+  "description": "Object key filtering",
   "main": "dist/index.js",
   "files": [
     "dist"
