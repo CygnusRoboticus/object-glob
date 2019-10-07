@@ -1,6 +1,6 @@
 {
   "name": "object-glob",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Object key filtering",
   "main": "dist/index.js",
   "files": [
