@@ -1,6 +1,6 @@
 {
   "name": "object-glob",
-  "version": "0.2.7",
+  "version": "0.1.0",
   "description": "Lightweight concurrency management",
   "main": "dist/index.js",
   "files": [
