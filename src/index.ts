@@ -25,10 +25,7 @@ interface IFlattenOptions {
 
 const defaultOptions: IFlattenOptions = { separator: "." };
 
-export function recurseKeys(
-  target: { [k: string]: any },
-  options = defaultOptions
-) {
+function recurseKeys(target: { [k: string]: any }, options = defaultOptions) {
   const opts: IFlattenOptions = Object.assign(
     Object.assign({}, defaultOptions, options)
   );

@@ -1,5 +1,7 @@
 # object-glob
 
+Basic utility for searching an object for all keys matching a glob pattern.
+
 ## Installation
 
 - `yarn add object-glob`
